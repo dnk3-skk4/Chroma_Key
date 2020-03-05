@@ -6,3 +6,9 @@ Removing and replacing a background image using chroma key. The demo shows the g
 This notebook can't run on Google Colab, must be in a local machine. It uses OpenCV's HiGUI
 
 ![](images/Demo.gif)
+
+Features:
+```
+Using ctrl + click
+```
+grabs the pixel color and uses that color as the mask
