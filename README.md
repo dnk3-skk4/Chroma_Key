@@ -5,3 +5,4 @@ Removing and replacing a background image using chroma key
 
 This notebook can't run on Google Colab, must be in a local machine.
 
+![](images/Demo.gif)
