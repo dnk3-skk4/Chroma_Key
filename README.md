@@ -7,7 +7,7 @@ This notebook can't run on Google Colab, must be in a local machine. It uses Ope
 
 Features:
 ```
-Using ctrl + click
+Using ctrl + left_mouse_button
 ```
 grabs the pixel color and uses that color as the mask
 
