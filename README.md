@@ -12,3 +12,7 @@ Using ctrl + left_mouse_button
 grabs the pixel color and uses that color as the mask
 
 ![](images/Demo.png)
+
+Green screen removal
+
+![](images/BG_change.png)
