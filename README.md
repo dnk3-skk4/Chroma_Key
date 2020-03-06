@@ -10,4 +10,5 @@ Features:
 Using ctrl + click
 ```
 grabs the pixel color and uses that color as the mask
-![](images/demo.png)
+
+![](images/Demo.png)
